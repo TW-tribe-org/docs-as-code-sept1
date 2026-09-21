@@ -1,6 +1,6 @@
 ### Team Collaboration Guidelines
 
-Welcome! To keep our codebase clean, stable, and easy to maintain, all team members are expected to follow these rules when contributing to this repository. 
+Welcome! To keep our codebase clean, stable, and easy to maintain, all team members are expected to follow these rules when contributing to this repository.  
 
 ### ➡️ 1. Branching Strategy
 
