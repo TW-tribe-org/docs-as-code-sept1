@@ -1,4 +1,4 @@
-# Installation
+# Feature Guide
 
 ## Control-M Installation
 

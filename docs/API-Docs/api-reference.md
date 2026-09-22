@@ -1,4 +1,4 @@
-# Installation
+# API Reference Guide
 
 ## Control-M Installation
 
@@ -8,7 +8,7 @@ You can install any Control-M component on a clean host or upgrade an existing i
 
 Modified for testing commit.
 
-You can use the version 9.0.22 installation files to install Control-M on a clean account or upgrade an existing installation of Control-M to 9.0.22.
+You can use the version 9.0.22 installation files to install Control-M on a clean account or upgrade an existing installation of Control-M to 9.0.22. Use the latest version.
 
 To ensure that the Java library remains up to date, Control-M requires an external Java installation, as described in *Control-M External Java Installation*.
 

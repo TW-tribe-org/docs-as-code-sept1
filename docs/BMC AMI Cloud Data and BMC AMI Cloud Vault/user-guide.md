@@ -1,5 +1,3 @@
-
-
 # User Guide
  
 This guide explains how to install the product.

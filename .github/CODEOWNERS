@@ -1,14 +1,19 @@
 # .github/CODEOWNERS
 
-# Product A — owned by two individual writers
-/products/product-a/     @aTWTsupport @TWTSupport
+# Documentation governance
+/.github/CODEOWNERS @TW-Tribe-org/documentation-maintainers
 
-# Product B — owned by a team (GitHub team, not individuals)
-/products/product-b/     @org-name/api-docs-team
+# API Documentation
+/docs/API-Docs/ @TW-Tribe-org/api-docs-reviewers
 
-# Shared content requires review from the lead writer
-/shared/                 @lead-writer
+# Cloud Analytics
+/docs/BMC\ AMI\ Cloud\ Analytics/ @TW-Tribe-org/cloud-analytics-reviewers
 
-# Workflow and config changes require admin-level review
-/.github/                @docs-admin
-/docusaurus.config.js    @docs-admin
+# Cloud Data
+/docs/BMC\ AMI\ Cloud\ Data.../ @TW-Tribe-org/cloud-data-reviewers
+
+# Product Documentation
+/docs/Product-Docs/ @TW-Tribe-org/product-docs-reviewers
+
+# Docusaurus configuration
+/docusaurus.config.js @TW-Tribe-org/documentation-maintainers
